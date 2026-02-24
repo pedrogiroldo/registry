@@ -1,0 +1,17 @@
+{
+  "id": "kilo-code",
+  "name": "Kilo Code",
+  "version": "7.0.27",
+  "description": "Open source AI coding agent - generates code from natural language, runs terminal commands, automates browsers, and refactors code",
+  "repository": "https://github.com/Kilo-Org/kilocode",
+  "authors": [
+    "Kilo"
+  ],
+  "license": "MIT",
+  "distribution": {
+    "npx": {
+      "package": "@kilocode/cli@7.0.27",
+      "args": ["acp"]
+    }
+  }
+}
