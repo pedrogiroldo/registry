@@ -46,6 +46,10 @@
           "acp"
         ]
       }
+    },
+    "npx": {
+      "package": "@kilocode/cli@7.0.30",
+      "args": ["acp"]
     }
   }
 }
